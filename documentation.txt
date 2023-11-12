@@ -1,0 +1,4 @@
+Packages Installed In this project
+1. npm install lucide-react (for icons)
+2. shadcdn
+3. clsx (to merge the css properties)
